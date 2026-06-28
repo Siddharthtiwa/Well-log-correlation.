@@ -3,7 +3,7 @@
 
 
 
-# Petrophysical Reservoir Evaluation – Synthetic Well Data
+# Petrophysical & Geological Reservoir Evaluation – Synthetic Well Data
 
 A geoscience–data science project simulating reservoir characterization using synthetic well log data.
 
@@ -58,4 +58,4 @@ This project successfully demonstrates a complete synthetic reservoir characteri
 
 ## Author
 Siddharth Tiwari  
-Applied Geology | Data Science | Petrophysics
+Applied Geology
