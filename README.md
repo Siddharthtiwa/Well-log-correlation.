@@ -3,8 +3,7 @@
 
 
 
-# Petrophysical & Geological Reservoir Evaluation – Synthetic Well Data
-
+PETROPHYSICAL & GEOLOGICAL RESERVOIR EVALUATION – SYNTHETIC WELL DATA
 A geoscience–data science project simulating reservoir characterization using synthetic well log data.
 
 ---
